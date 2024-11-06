@@ -64,7 +64,11 @@ even_or_odd.c - Checks if a number is even or odd.
 largest_number_among_2.c - Finds the largest of two numbers.
 
 number_is_positive_or_negative.c - Checks if a number is positive or negative.
+
 print_first_n_even_numbers.c - Prints the first n even numbers.
+
 print_n_numbers_using_op.c - Prints the first n numbers using operators.
+
 total_and_average_of_3_students.c - Calculates the total and average marks of 3 students.
+
 to_write_3_numbers_in_ascending_order.c - Sorts three numbers in ascending order.
