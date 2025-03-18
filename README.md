@@ -1,74 +1,78 @@
-# C-Programs
-This repository contains a collection of basic C programs covering various concepts such as arithmetic operations, control structures, loops, and algorithms. Each program is designed to help understand fundamental C programming concepts.
+About
 
-Table of Contents
-Arithmetic Operations
-Control Structures
-Loops
-Algorithms
-Mathematical Calculations
-Others
+This repository is designed to help beginners understand the basics of C programming. The programs include fundamental operations, loops, conditionals, searching and sorting techniques, mathematical computations, and more.
 
-Arithmetic Operations
+Programs List
 
-additionofnumbers.c - Adds two numbers.
+Below are some of the C programs included in this repository:
 
-multiplication.c - Multiplies two numbers.
+Addition of numbers
 
-division.c - Divides two numbers.
+Area of a triangle
 
-subtractionofnumbers.c - Subtracts two numbers.
+Armstrong number check
 
-swappingofnumbers.c - Swaps two numbers without using a temporary variable.
+Binary search
 
-Control Structures
+Simple interest calculation
 
-ifloop.c - Demonstrates a simple if condition.
+Division of numbers
 
-ifelselop.c - Demonstrates an if-else condition.
+Do-while loop example
 
-switch.c - Uses a switch statement to perform a specific operation.
+Even or odd check
 
-Loops
+Finding roots of a quadratic equation
 
-forloop.c - Demonstrates a for loop.
+For loop example
 
-whileloop.c - Demonstrates a while loop.
+Square and cube of a number
 
-dowhileloop.c - Demonstrates a do-while loop.
+If-else loop example
 
-Algorithms
+Finding the largest number among two
 
-binarysearch.c - Performs binary search on a sorted array.
+Library management system
 
-linearsearch.c - Performs linear search on an array.
+Linear search
 
-Mathematical Calculations
+Multiplication of numbers
 
-calculate_simple_interest.c - Calculates simple interest.
+Positive or negative number check
 
-area_of_triangle.c - Calculates the area of a triangle.
+Area of a circle calculation
 
-print_area_of_circle.c - Prints the area of a circle.
+Printing first N even numbers
 
-give_square_and_cube_of_number.c - Calculates the square and cube of a given number.
+Printing N numbers using operators
 
-reverse.c - Reverses a number.
+Reversing a number
 
-find_no_root_in_quadratic_equation.c - Finds the roots of a quadratic equation. Others
+Subtraction of numbers
 
-armstrong_number.c - Checks if a number is an Armstrong number.
+Swapping of numbers
 
-even_or_odd.c - Checks if a number is even or odd.
+Switch case example
 
-largest_number_among_2.c - Finds the largest of two numbers.
+Total and average marks of students
 
-number_is_positive_or_negative.c - Checks if a number is positive or negative.
+Sorting three numbers in ascending order
 
-print_first_n_even_numbers.c - Prints the first n even numbers.
+While loop example
 
-print_n_numbers_using_op.c - Prints the first n numbers using operators.
+**How to Run**
 
-total_and_average_of_3_students.c - Calculates the total and average marks of 3 students.
+Clone this repository:
 
-to_write_3_numbers_in_ascending_order.c - Sorts three numbers in ascending order.
+      git clone https://github.com/p-v-srinag/C-Programs.git
+
+Navigate to the directory:
+
+      cd C-Programs
+
+Compile and run a C program:
+
+      gcc filename.c -o output
+      ./output
+
+Replace filename.c with the actual file name you want to run.
