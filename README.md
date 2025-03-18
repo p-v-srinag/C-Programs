@@ -4,8 +4,6 @@ This repository is designed to help beginners understand the basics of C program
 
 Programs List
 
-Below are some of the C programs included in this repository:
-
 Addition of numbers
 
 Area of a triangle
